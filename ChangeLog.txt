@@ -1,2 +1,7 @@
-1 Feb 2016
-	-add Story all everyone
+0.1.0 	1 Feb 2016
+	Release
+	     -add Story all everyone
+
+0.2.0	3 Feb 2016
+	Release
+	      - edit fiction
